@@ -1,0 +1,28 @@
+{
+  "name": "simerfop",
+  "version": "1.0.0",
+  "description": "A simple task scheduler for Node.js applications.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serinaHoli1/simerfop.git"
+  },
+  "keywords": [
+    "scheduler",
+    "task",
+    "Node.js"
+  ],
+  "author": "serinaHoli1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serinaHoli1/simerfop/issues"
+  },
+  "homepage": "https://github.com/serinaHoli1/simerfop",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  }
+}
